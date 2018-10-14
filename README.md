@@ -1,5 +1,5 @@
 # aframe-gear-of-war-desktop
-Desktop version of my cover-based combat game for Gear VR.
+Cover-based combat game for Gear VR. (Desktop version)
 
 ![](https://raw.githubusercontent.com/thedart76/aframe-gear-of-war-desktop/master/gear-of-war-desktop-github.gif)
 
