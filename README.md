@@ -35,4 +35,4 @@ Long story short: I was luck enough to manage to submit my game 10 minutes befor
 
 ------------
 
-📲 **[VISIT THE REPO](https://github.com/thedart76/aframe-gear-of-war "VISIT THE REPO")** of the version specifically designed for Gear VR (WebVR entry for js13KGames 2018 competition).
+📲 **[VISIT THE REPO](https://github.com/thedart76/aframe-gear-of-war "VISIT THE REPO")** of the version designed and coded specifically for Gear VR ([js13KGames 2018 competition](https://js13kgames.com/entries/gear-of-war "js13KGames 2018 competition")).
