@@ -17,7 +17,7 @@ Cover-based combat game designed and coded specifically for Gear VR. (Desktop ve
 
 ------------
 
-⚠️ The challenge was to create firing enemies and health damage for the player, because, at the time of this writing (October 2018) an entity cannot be both a target and a firing enemy at the same time.
+⚠️ The challenge was to create firing enemies and health damage for the player, because at the time of this writing (October 2018) an entity cannot be both a target and a firing enemy at the same time.
 
 ------------
 
