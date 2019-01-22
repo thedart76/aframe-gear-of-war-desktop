@@ -29,7 +29,7 @@ Cover-based combat game designed and coded specifically for Gear VR... and Oculu
 
 ❓*Why didn't you create just one version?*<br/>Long story short: I was lucky enough to manage to submit my game 10 minutes before the deadline!
 
-❓*Why did you choose to submit the Gear VR version instead of the Desktop version? More people would have tried it!*<br/>Actually, the game works on Oculus Go as well. However, "Gear of War" is a tribute to the mechanincs of "Gears of War", and its name makes so much sense as a game for Gear VR. What can I say... I like plays of words!
+❓*Why did you choose to submit the Gear VR version instead of the Desktop version? More people would have tried it!*<br/>"Gear of War" is a tribute to the mechanincs of "Gears of War", and its name makes so much sense as a game for Gear VR. What can I say... I like plays of words!<br/>However, the game works on Oculus Go as well.
 
 ------------
 
