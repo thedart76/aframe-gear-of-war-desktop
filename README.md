@@ -1,5 +1,5 @@
 # aframe-gear-of-war-desktop
-Cover-based combat game designed and coded specifically for Gear VR. (Desktop version)
+Cover-based combat game designed and coded specifically for Gear VR... and Oculus Go. (Desktop version)
 
 ![](https://raw.githubusercontent.com/thedart76/aframe-gear-of-war-desktop/master/gear-of-war-desktop-github.gif)
 
